@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview | Teaching</title>
+    <link>/courses/intro/</link>
+      <atom:link href="/courses/intro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Overview</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright> Jon Zelner © 2020</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Overview</title>
+      <link>/courses/intro/</link>
+    </image>
+    
+    <item>
+      <title>The roots (and branches) of spatial epidemiology</title>
+      <link>/courses/intro/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro/example1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.jonzelner.net/spatial-epi-course/lecture-1-cholera.html&#34;&gt;&lt;i class=&#34;fas fa-desktop&#34;&gt;&lt;/i&gt; Slides&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;In this session, we discuss  the foundational story of modern spatial epidemiology: The 1854 London Cholera Outbreak. We will compare the use of spatial information in this historical example to the present day using the most recent WHO Global Cholera Roadmap. We will also look at how spatial data are used in public health practice on a smaller geographic scale, using the 2018 TB Report from the New York City Department of Health and Mental Hygiene.&lt;/p&gt;
+&lt;h2 id=&#34;the-pre-history-of-spatial-epidemiology&#34;&gt;The pre-history of spatial epidemiology&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://umich.instructure.com/courses/343978/files/13412361/download?wrap=1&#34;&gt;Steven Shapin. 2007. “Sick City”. The New Yorker&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;spatial-data-in-global-and-local-policymaking&#34;&gt;Spatial data in global and local policymaking&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.who.int/cholera/publications/global-roadmap.pdf&#34;&gt;WHO Global Cholera Roadmap&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www1.nyc.gov/assets/doh/downloads/pdf/tb/tb2018.pdf&#34;&gt;New York City Annual Tuberculosis Report, 2018&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>What are the tools of spatial epidemiology?</title>
+      <link>/courses/intro/example2/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>/courses/intro/example2/</guid>
+      <description>
+
+
+&lt;div id=&#34;topics&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Topics&lt;/h2&gt;
+&lt;p&gt;A glossary of concepts/terms for spatial epidemiology:&lt;/p&gt;
+&lt;p&gt;&lt;a name=cite-rezaeian2007&gt;&lt;/a&gt;(&lt;a href=&#34;https://doi.org/10.1136/jech.2005.043117&#34;&gt;Rezaeian, Dunn, St Leger, and Appleby, 2007a&lt;/a&gt;) &lt;a href=&#34;https://drive.google.com/file/d/1hg7VZgkCbOCoVnViIYPUtJOelRkXDfOp/view?usp=sharing&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;A broad overview of health and medical geography:&lt;/p&gt;
+&lt;p&gt;&lt;a name=cite-emch2017&gt;&lt;/a&gt;(&lt;a href=&#34;#bib-emch2017&#34;&gt;Emch, Root, and Carrel, 2017&lt;/a&gt;) &lt;a href=&#34;https://drive.google.com/file/d/1-2wFyqJbD7v7zu_AlTO2_xQeK5vdD1hc/view?usp=sharing&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;references&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;References&lt;/h2&gt;
+&lt;p&gt;&lt;a name=bib-emch2017&gt;&lt;/a&gt;&lt;a href=&#34;#cite-emch2017&#34;&gt;[1]&lt;/a&gt; M. Emch, E. D. Root, and
+M. Carrel. &lt;em&gt;Health and Medical Geography, Fourth Edition&lt;/em&gt;. Fourth
+edition. New York: The Guilford Press, Feb. 2017. ISBN:
+978-1-4625-2006-0.&lt;/p&gt;
+&lt;p&gt;&lt;a name=bib-rezaeian2007&gt;&lt;/a&gt;&lt;a href=&#34;#cite-rezaeian2007&#34;&gt;[2]&lt;/a&gt; M. Rezaeian, G.
+Dunn, S. St Leger, et al. “Geographical Epidemiology, Spatial Analysis
+and Geographical Information Systems: A Multidisciplinary Glossary”.
+En. In: &lt;em&gt;Journal of Epidemiology &amp;amp; Community Health&lt;/em&gt; 61.2 (Feb. 2007),
+pp. 98-102. ISSN: 0143-005X. DOI:
+&lt;a href=&#34;https://doi.org/10.1136%2Fjech.2005.043117&#34;&gt;10.1136/jech.2005.043117&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
