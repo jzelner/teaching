@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview | Teaching</title>
-    <link>/courses/intro/</link>
-      <atom:link href="/courses/intro/index.xml" rel="self" type="application/rss+xml" />
+    <link>/teaching/courses/intro/</link>
+      <atom:link href="/teaching/courses/intro/index.xml" rel="self" type="application/rss+xml" />
     <description>Overview</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright> Jon Zelner © 2020</copyright><lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Overview</title>
-      <link>/courses/intro/</link>
+      <link>/teaching/courses/intro/</link>
     </image>
     
     <item>
       <title>The roots (and branches) of spatial epidemiology</title>
-      <link>/courses/intro/example1/</link>
+      <link>/teaching/courses/intro/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/intro/example1/</guid>
+      <guid>/teaching/courses/intro/example1/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.jonzelner.net/spatial-epi-course/lecture-1-cholera.html&#34;&gt;&lt;i class=&#34;fas fa-desktop&#34;&gt;&lt;/i&gt; Slides&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;In this session, we discuss  the foundational story of modern spatial epidemiology: The 1854 London Cholera Outbreak. We will compare the use of spatial information in this historical example to the present day using the most recent WHO Global Cholera Roadmap. We will also look at how spatial data are used in public health practice on a smaller geographic scale, using the 2018 TB Report from the New York City Department of Health and Mental Hygiene.&lt;/p&gt;
 &lt;h2 id=&#34;the-pre-history-of-spatial-epidemiology&#34;&gt;The pre-history of spatial epidemiology&lt;/h2&gt;
@@ -29,9 +29,9 @@
     
     <item>
       <title>What are the tools of spatial epidemiology?</title>
-      <link>/courses/intro/example2/</link>
+      <link>/teaching/courses/intro/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      <guid>/courses/intro/example2/</guid>
+      <guid>/teaching/courses/intro/example2/</guid>
       <description>
 
 
