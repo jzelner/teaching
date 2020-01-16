@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | Teaching</title>
-    <link>/teaching/talk/</link>
-      <atom:link href="/teaching/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright> Jon Zelner © 2020</copyright>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/teaching/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
       <title>Scale, Scale, Scale</title>
-      <link>/teaching/talk/example/</link>
+      <link>/talk/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/teaching/talk/example/</guid>
+      <guid>/talk/example/</guid>
       <description></description>
     </item>
     
